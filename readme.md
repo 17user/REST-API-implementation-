@@ -3,24 +3,24 @@
 This is built with Flask-RESTful api.
 
 
-##Endpoints are - 
+#Endpoints are - 
 
-##GET - 
+#GET - 
 
 http://139.59.86.159/item/<name>
 http://139.59.86.159/store/<name>
 http://139.59.86.159/items
 http://139.59.86.159/stores
   
-##POST - 
+#POST - 
 http://139.59.86.159/item/<name>
 http://139.59.86.159/store/<name>
 http://139.59.86.159/auth
 http://139.59.86.159/register
   
-##DELETE - 
+#DELETE - 
 http://139.59.86.159/item/<name>
 http://139.59.86.159/store/<name>
 
-##PUT - 
+#PUT - 
 http://139.59.86.159/item/<name>
